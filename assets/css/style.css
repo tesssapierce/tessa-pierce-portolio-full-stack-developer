@@ -1,0 +1,59 @@
+body {
+  margin: 0 auto;
+  background-color: #f7f1f0;
+  color: #454545;
+  font-family: 'Raleway', sans-serif;
+}
+
+.header-section {
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+
+.newSection {
+  background-color: #c3a6a0;
+  margin: 50px;
+  padding: 50px;
+}
+
+h1 {
+  color: #454545;
+  padding-top: 20px;
+  font-family: 'Charmonman', cursive;
+  font-size: 50px;
+}
+
+h2, h3 {
+  font-family: 'Raleway', sans-serif;
+  color: #454545;
+  padding: 5px;
+}
+
+.name-section {
+  background-color: #c3a6a0;
+}
+
+.nav-link.active{
+  background: #785964;
+}
+
+.card {
+  padding: 25px;
+  margin: 0 auto;
+}
+
+.portfolio-links {
+  width: 75px;
+}
+
+.link-image {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.portfolio-head {
+  text-align: center;
+  padding-bottom: 20px;
+}
