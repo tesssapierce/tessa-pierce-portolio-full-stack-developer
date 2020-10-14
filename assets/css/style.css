@@ -33,6 +33,7 @@ h2, h3 {
 
 .name-section {
   background-color: #c3a6a0;
+  margin: 0;
 }
 
 .nav-link.active{
@@ -56,4 +57,26 @@ h2, h3 {
 .portfolio-head {
   text-align: center;
   padding-bottom: 20px;
+}
+
+.navbar-custom {
+  background-color: #c3a6a0;
+  color: white;
+}
+
+a:link, a:visited {
+  color: white
+}
+
+.form-message{
+  height: 200px;
+}
+
+@media only screen and (max-width: 600px){
+  .cardHolder{
+    padding: 20px;
+  }
+  .navbar-toggler-icon{
+    color: white;
+  }
 }
